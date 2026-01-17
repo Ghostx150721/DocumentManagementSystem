@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DocumentManagementSystem.AppCore/1.0.0": {
+        "dependencies": {
+          "DocumentManagementSystem.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DocumentManagementSystem.AppCore.dll": {}
+        }
+      },
+      "DocumentManagementSystem.Domain/1.0.0": {
+        "runtime": {
+          "DocumentManagementSystem.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DocumentManagementSystem.AppCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DocumentManagementSystem.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

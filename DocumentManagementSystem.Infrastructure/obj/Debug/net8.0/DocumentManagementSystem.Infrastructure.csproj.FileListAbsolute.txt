@@ -1,0 +1,15 @@
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Infrastructure\bin\Debug\net8.0\DocumentManagementSystem.Infrastructure.deps.json
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Infrastructure\bin\Debug\net8.0\DocumentManagementSystem.Infrastructure.dll
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Infrastructure\bin\Debug\net8.0\DocumentManagementSystem.Infrastructure.pdb
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Infrastructure\bin\Debug\net8.0\DocumentManagementSystem.Domain.dll
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Infrastructure\bin\Debug\net8.0\DocumentManagementSystem.Domain.pdb
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Infrastructure\obj\Debug\net8.0\DocumentManagementSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Infrastructure\obj\Debug\net8.0\DocumentManagementSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Infrastructure\obj\Debug\net8.0\DocumentManagementSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Infrastructure\obj\Debug\net8.0\DocumentManagementSystem.Infrastructure.AssemblyInfo.cs
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Infrastructure\obj\Debug\net8.0\DocumentManagementSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Infrastructure\obj\Debug\net8.0\Document.F85BD486.Up2Date
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Infrastructure\obj\Debug\net8.0\DocumentManagementSystem.Infrastructure.dll
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Infrastructure\obj\Debug\net8.0\refint\DocumentManagementSystem.Infrastructure.dll
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Infrastructure\obj\Debug\net8.0\DocumentManagementSystem.Infrastructure.pdb
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Infrastructure\obj\Debug\net8.0\ref\DocumentManagementSystem.Infrastructure.dll

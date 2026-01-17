@@ -1,0 +1,15 @@
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\bin\Debug\net8.0\DocumentManagementSystem.AppCore.deps.json
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\bin\Debug\net8.0\DocumentManagementSystem.AppCore.dll
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\bin\Debug\net8.0\DocumentManagementSystem.AppCore.pdb
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\bin\Debug\net8.0\DocumentManagementSystem.Domain.dll
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\bin\Debug\net8.0\DocumentManagementSystem.Domain.pdb
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\obj\Debug\net8.0\DocumentManagementSystem.AppCore.csproj.AssemblyReference.cache
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\obj\Debug\net8.0\DocumentManagementSystem.AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\obj\Debug\net8.0\DocumentManagementSystem.AppCore.AssemblyInfoInputs.cache
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\obj\Debug\net8.0\DocumentManagementSystem.AppCore.AssemblyInfo.cs
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\obj\Debug\net8.0\DocumentManagementSystem.AppCore.csproj.CoreCompileInputs.cache
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\obj\Debug\net8.0\Document.6CD81258.Up2Date
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\obj\Debug\net8.0\DocumentManagementSystem.AppCore.dll
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\obj\Debug\net8.0\refint\DocumentManagementSystem.AppCore.dll
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\obj\Debug\net8.0\DocumentManagementSystem.AppCore.pdb
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\obj\Debug\net8.0\ref\DocumentManagementSystem.AppCore.dll

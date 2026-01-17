@@ -1,0 +1,15 @@
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\bin\Debug\net8.0\DocumentManagementSystem.Application.deps.json
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\bin\Debug\net8.0\DocumentManagementSystem.Application.dll
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\bin\Debug\net8.0\DocumentManagementSystem.Application.pdb
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\bin\Debug\net8.0\DocumentManagementSystem.Domain.dll
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\bin\Debug\net8.0\DocumentManagementSystem.Domain.pdb
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\obj\Debug\net8.0\DocumentManagementSystem.Application.csproj.AssemblyReference.cache
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\obj\Debug\net8.0\DocumentManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\obj\Debug\net8.0\DocumentManagementSystem.Application.AssemblyInfoInputs.cache
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\obj\Debug\net8.0\DocumentManagementSystem.Application.AssemblyInfo.cs
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\obj\Debug\net8.0\DocumentManagementSystem.Application.csproj.CoreCompileInputs.cache
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\obj\Debug\net8.0\Document.D751C043.Up2Date
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\obj\Debug\net8.0\DocumentManagementSystem.Application.dll
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\obj\Debug\net8.0\refint\DocumentManagementSystem.Application.dll
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\obj\Debug\net8.0\DocumentManagementSystem.Application.pdb
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Application\obj\Debug\net8.0\ref\DocumentManagementSystem.Application.dll

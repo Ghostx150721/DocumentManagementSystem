@@ -1,0 +1,11 @@
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Domain\bin\Debug\net8.0\DocumentManagementSystem.Domain.deps.json
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Domain\bin\Debug\net8.0\DocumentManagementSystem.Domain.dll
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Domain\bin\Debug\net8.0\DocumentManagementSystem.Domain.pdb
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Domain\obj\Debug\net8.0\DocumentManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Domain\obj\Debug\net8.0\DocumentManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Domain\obj\Debug\net8.0\DocumentManagementSystem.Domain.AssemblyInfo.cs
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Domain\obj\Debug\net8.0\DocumentManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Domain\obj\Debug\net8.0\DocumentManagementSystem.Domain.dll
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Domain\obj\Debug\net8.0\refint\DocumentManagementSystem.Domain.dll
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Domain\obj\Debug\net8.0\DocumentManagementSystem.Domain.pdb
+C:\Workspace\DocumentManagementSystem\DocumentManagementSystem.Domain\obj\Debug\net8.0\ref\DocumentManagementSystem.Domain.dll
