@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Workspace\\DocumentManagementSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E66F0909-B873-4A42-A065-07100C3C20DE}|DocumentManagementSystem.Domain\\DocumentManagementSystem.Domain.csproj|c:\\workspace\\documentmanagementsystem\\documentmanagementsystem.domain\\entities\\annotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66F0909-B873-4A42-A065-07100C3C20DE}|DocumentManagementSystem.Domain\\DocumentManagementSystem.Domain.csproj|solutionrelative:documentmanagementsystem.domain\\entities\\annotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66F0909-B873-4A42-A065-07100C3C20DE}|DocumentManagementSystem.Domain\\DocumentManagementSystem.Domain.csproj|c:\\workspace\\documentmanagementsystem\\documentmanagementsystem.domain\\valueobjects\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66F0909-B873-4A42-A065-07100C3C20DE}|DocumentManagementSystem.Domain\\DocumentManagementSystem.Domain.csproj|solutionrelative:documentmanagementsystem.domain\\valueobjects\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66F0909-B873-4A42-A065-07100C3C20DE}|DocumentManagementSystem.Domain\\DocumentManagementSystem.Domain.csproj|c:\\workspace\\documentmanagementsystem\\documentmanagementsystem.domain\\entities\\documentversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66F0909-B873-4A42-A065-07100C3C20DE}|DocumentManagementSystem.Domain\\DocumentManagementSystem.Domain.csproj|solutionrelative:documentmanagementsystem.domain\\entities\\documentversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66F0909-B873-4A42-A065-07100C3C20DE}|DocumentManagementSystem.Domain\\DocumentManagementSystem.Domain.csproj|c:\\workspace\\documentmanagementsystem\\documentmanagementsystem.domain\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66F0909-B873-4A42-A065-07100C3C20DE}|DocumentManagementSystem.Domain\\DocumentManagementSystem.Domain.csproj|solutionrelative:documentmanagementsystem.domain\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F7F5659D-1FFB-428E-90E6-DB4A846A14DD}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|c:\\workspace\\documentmanagementsystem\\documentmanagementsystem.ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7F5659D-1FFB-428E-90E6-DB4A846A14DD}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,18 +43,69 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Workspace\\DocumentManagementSystem\\DocumentManagementSystem.Domain\\ValueObjects\\Rectangle.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Domain\\ValueObjects\\Rectangle.cs",
+              "ToolTip": "C:\\Workspace\\DocumentManagementSystem\\DocumentManagementSystem.Domain\\ValueObjects\\Rectangle.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Domain\\ValueObjects\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:06:40.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Annotation.cs",
+              "DocumentMoniker": "C:\\Workspace\\DocumentManagementSystem\\DocumentManagementSystem.Domain\\Entities\\Annotation.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Domain\\Entities\\Annotation.cs",
+              "ToolTip": "C:\\Workspace\\DocumentManagementSystem\\DocumentManagementSystem.Domain\\Entities\\Annotation.cs*",
+              "RelativeToolTip": "DocumentManagementSystem.Domain\\Entities\\Annotation.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:05:23.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocumentVersion.cs",
+              "DocumentMoniker": "C:\\Workspace\\DocumentManagementSystem\\DocumentManagementSystem.Domain\\Entities\\DocumentVersion.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Domain\\Entities\\DocumentVersion.cs",
+              "ToolTip": "C:\\Workspace\\DocumentManagementSystem\\DocumentManagementSystem.Domain\\Entities\\DocumentVersion.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Domain\\Entities\\DocumentVersion.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAywCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:04:35.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Workspace\\DocumentManagementSystem\\DocumentManagementSystem.Domain\\Entities\\Document.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Domain\\Entities\\Document.cs",
+              "ToolTip": "C:\\Workspace\\DocumentManagementSystem\\DocumentManagementSystem.Domain\\Entities\\Document.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Domain\\Entities\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T15:53:10.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DocumentManagementSystem.AppCore",
               "DocumentMoniker": "C:\\Workspace\\DocumentManagementSystem\\DocumentManagementSystem.Application\\DocumentManagementSystem.AppCore.csproj",
               "RelativeDocumentMoniker": "DocumentManagementSystem.Application\\DocumentManagementSystem.AppCore.csproj",
               "ToolTip": "C:\\Workspace\\DocumentManagementSystem\\DocumentManagementSystem.Application\\DocumentManagementSystem.AppCore.csproj",
               "RelativeToolTip": "DocumentManagementSystem.Application\\DocumentManagementSystem.AppCore.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-08T14:39:14.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T14:39:14.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Workspace\\DocumentManagementSystem\\DocumentManagementSystem.UI\\App.xaml.cs",
               "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\App.xaml.cs",
