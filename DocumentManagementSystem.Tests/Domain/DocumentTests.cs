@@ -1,6 +1,7 @@
 ﻿using System;
 using Xunit;
 using DocumentManagementSystem.Domain.Entities;
+using DocumentManagementSystem.Domain.Exceptions;
 
 namespace DocumentManagementSystem.Tests.Domain
 {
@@ -49,6 +50,13 @@ namespace DocumentManagementSystem.Tests.Domain
             doc.SoftDelete();
 
             Assert.True(doc.IsDeleted);
+        }
+
+        [Fact]
+        public void Creating_document_without_title_throws_exception()
+        {
+            Assert.Throws<ValidationException>(() =>
+                new Document("", "Hirusha"));
         }
     }
 }

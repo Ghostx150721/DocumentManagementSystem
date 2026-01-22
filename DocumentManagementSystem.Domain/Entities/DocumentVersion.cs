@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DocumentManagementSystem.Domain.Exceptions;
+using System;
 using System.Collections.Generic;
 
 namespace DocumentManagementSystem.Domain.Entities
@@ -17,8 +18,18 @@ namespace DocumentManagementSystem.Domain.Entities
 
         private DocumentVersion() { }
 
-        internal DocumentVersion(Guid documentId, string filePath, string createdBy, int versionNumber)
+        internal DocumentVersion(
+            Guid documentId,
+            string filePath,
+            string createdBy,
+            int versionNumber)
         {
+            if (documentId == Guid.Empty)
+                throw new ValidationException("DocumentId is required.");
+
+            if (versionNumber <= 0)
+                throw new ValidationException("Version number must be greater than zero.");
+
             Id = Guid.NewGuid();
             DocumentId = documentId;
             FilePath = filePath;
@@ -27,9 +38,14 @@ namespace DocumentManagementSystem.Domain.Entities
             CreatedAt = DateTime.UtcNow;
         }
 
+
         public void AddAnnotation(Annotation annotation)
         {
+            if (annotation == null)
+                throw new ValidationException("Annotation cannot be null.");
+
             _annotations.Add(annotation);
         }
+
     }
 }
