@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using DocumentManagementSystem.Domain.Exceptions;
 
 namespace DocumentManagementSystem.Domain.Entities
 {
@@ -20,6 +21,12 @@ namespace DocumentManagementSystem.Domain.Entities
 
         public Document(string title, string owner)
         {
+            if (string.IsNullOrWhiteSpace(title))
+                throw new ValidationException("Document title cannot be empty.");
+
+            if (string.IsNullOrWhiteSpace(owner))
+                throw new ValidationException("Document owner cannot be empty.");
+
             Id = Guid.NewGuid();
             Title = title;
             Owner = owner;
@@ -27,13 +34,29 @@ namespace DocumentManagementSystem.Domain.Entities
 
         public DocumentVersion AddVersion(string filePath, string createdBy)
         {
-            var version = new DocumentVersion(Id, filePath, createdBy, _versions.Count + 1);
+            if (string.IsNullOrWhiteSpace(filePath))
+                throw new ValidationException("File path cannot be empty.");
+
+            if (string.IsNullOrWhiteSpace(createdBy))
+                throw new ValidationException("CreatedBy cannot be empty.");
+
+            var version = new DocumentVersion
+            (
+                Id,
+                filePath,
+                createdBy,
+                _versions.Count + 1
+            );
+
             _versions.Add(version);
             return version;
         }
 
         public void AddTag(string tag)
         {
+            if (string.IsNullOrWhiteSpace(tag))
+                throw new ValidationException("Tag cannot be empty.");
+
             if (!_tags.Contains(tag))
                 _tags.Add(tag);
         }

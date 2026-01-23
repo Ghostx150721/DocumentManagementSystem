@@ -2,6 +2,7 @@
 using DocumentManagementSystem.Domain.ValueObjects;
 using System;
 using System.Drawing;
+using DocumentManagementSystem.Domain.Exceptions;
 using Rectangle = DocumentManagementSystem.Domain.ValueObjects.Rectangle;
 
 namespace DocumentManagementSystem.Domain.Entities
@@ -17,8 +18,21 @@ namespace DocumentManagementSystem.Domain.Entities
 
         private Annotation() { }
 
-        public Annotation(AnnotationType type, int pageNumber, Rectangle bounds, string author)
+        public Annotation(
+            AnnotationType type,
+            int pageNumber,
+            Rectangle bounds,
+            string author)
         {
+            if (pageNumber <= 0)
+                throw new ValidationException("Page number must be greater than zero.");
+
+            if (bounds.Width <= 0 || bounds.Height <= 0)
+                throw new ValidationException("Annotation bounds must be valid.");
+
+            if (string.IsNullOrWhiteSpace(author))
+                throw new ValidationException("Author is required.");
+
             Id = Guid.NewGuid();
             Type = type;
             PageNumber = pageNumber;
@@ -26,5 +40,6 @@ namespace DocumentManagementSystem.Domain.Entities
             Author = author;
             CreatedAt = DateTime.UtcNow;
         }
+
     }
 }
